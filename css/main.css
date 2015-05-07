@@ -5,7 +5,7 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	color:#545257; /*changes color of the whole text*/
 	margin-top: 0;
-	background: #0E7EB5;
+	background: #048C24;
 }
 #wrapper{
 	width:960px;
@@ -15,7 +15,7 @@ body{
 	-webkit-box-shadow: 0px 0px 5px #ececec;
 	-moz-box-shadow:    0px 0px 5px #ececec;
 	box-shadow:         0px 0px 5px #ececec;
-    background: #62C4F5;
+    background: #07E33A;
 }
 /*-------------------------------------------  header -------------------------------------------------------*/
 
